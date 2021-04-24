@@ -1,3 +1,8 @@
+# Y_bed_size 190
+Поменял чтоб на полку помещался
+
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
